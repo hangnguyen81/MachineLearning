@@ -6,5 +6,5 @@ Learning source: https://www.coursera.org/learn/machine-learning-with-python/hom
 * [Simple Linear Regression](https://github.com/hangnguyen81/MachineLearning/blob/main/SimpleLinearRegression.ipynb)
 * [Multiple Linear Regression](https://github.com/hangnguyen81/MachineLearning/blob/main/MultipleLinearRegression.ipynb)
 2. Non-Linear Regression
-* Polynominal Regression
-* Non-Linear Regression
+* [Polynominal Regression](https://github.com/hangnguyen81/MachineLearning/blob/main/PolynomialRegression.ipynb)
+* [Non-Linear Regression](https://github.com/hangnguyen81/MachineLearning/blob/main/NonLinearRegression.ipynb)
