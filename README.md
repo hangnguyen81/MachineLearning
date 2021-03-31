@@ -20,5 +20,6 @@ Learning source: https://www.coursera.org/learn/machine-learning-with-python/hom
 5. Recommender Systems
 * Content-based Recommendation Engines
 * Collaborative Filtering
+
 The final project
 [The best classifier](https://github.com/hangnguyen81/MachineLearning/blob/main/TheBestClassifier.ipynb) building the classifier to predict whether a loan case will be paid off or not. 
