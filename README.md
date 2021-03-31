@@ -4,7 +4,7 @@ Learning source: https://www.coursera.org/learn/machine-learning-with-python/hom
 ### Table of content
 1. Linear Regression
 * [Simple Linear Regression](https://github.com/hangnguyen81/MachineLearning/blob/main/SimpleLinearRegression.ipynb)
-* [Multiple Linear Regression](httpsClustering://github.com/hangnguyen81/MachineLearning/blob/main/MultipleLinearRegression.ipynb)
+* [Multiple Linear Regression](https://github.com/hangnguyen81/MachineLearning/blob/main/MultipleLinearRegression.ipynb)
 2. Non-Linear Regression
 * [Polynominal Regression](https://github.com/hangnguyen81/MachineLearning/blob/main/PolynomialRegression.ipynb)
 * [Non-Linear Regression](https://github.com/hangnguyen81/MachineLearning/blob/main/NonLinearRegression.ipynb)
@@ -22,4 +22,5 @@ Learning source: https://www.coursera.org/learn/machine-learning-with-python/hom
 * Collaborative Filtering
 
 The final project
+
 [The best classifier](https://github.com/hangnguyen81/MachineLearning/blob/main/TheBestClassifier.ipynb) building the classifier to predict whether a loan case will be paid off or not. 
