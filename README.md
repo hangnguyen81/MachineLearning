@@ -10,7 +10,7 @@ Learning source: https://www.coursera.org/learn/machine-learning-with-python/hom
 * [Non-Linear Regression](https://github.com/hangnguyen81/MachineLearning/blob/main/NonLinearRegression.ipynb)
 3. Classification (Supervised Learning)
 * [K-Nearest Neighbours](https://github.com/hangnguyen81/MachineLearning/blob/main/k-nearest-neighbor.ipynb)
-* Decision Trees
+* [Decision Trees](https://github.com/hangnguyen81/MachineLearning/blob/main/DecisionTree.ipynb)
 * Logistic Regression
 * Support Vector Machine
 4. Clustering (Unsupervised Learning)
